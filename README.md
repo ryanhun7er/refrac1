@@ -1,7 +1,7 @@
 # Refractor v1
 
 ## Live Link
-[https://ryanhun7er.github.io/refrac1/]https://ryanhun7er.github.io/refrac1/
+[https://ryanhun7er.github.io/refrac1/](https://ryanhun7er.github.io/refrac1/)
 
 ## About
 1. This project entails refractoring the Horiseon webpage
@@ -15,5 +15,5 @@
 
 ## Contact
 1. Name: Ryan Wilkinson (@ryanhun7er)
-2. Email: [ryanhwilkinson@icloud.com]ryanhwilkinson@icloud.com
-3. LinkedIn: [https://www.linkedin.com/in/ryanhunterwilkinson/]https://www.linkedin.com/in/ryanhunterwilkinson/
+2. Email: [ryanhwilkinson@icloud.com](ryanhwilkinson@icloud.com)
+3. LinkedIn: [https://www.linkedin.com/in/ryanhunterwilkinson/](https://www.linkedin.com/in/ryanhunterwilkinson/)
